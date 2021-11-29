@@ -1,0 +1,16 @@
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.exe
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.deps.json
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.runtimeconfig.json
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.runtimeconfig.dev.json
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.dll
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\ref\netFundamentalsOne.Bank.dll
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\bin\Debug\net5.0\netFundamentalsOne.Bank.pdb
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.csproj.AssemblyReference.cache
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.AssemblyInfoInputs.cache
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.AssemblyInfo.cs
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.dll
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\ref\netFundamentalsOne.Bank.dll
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.pdb
+C:\Users\Karlitos\git\netFundamentalsOne\netFundamentalsOne.Bank\obj\Debug\net5.0\netFundamentalsOne.Bank.genruntimeconfig.cache
